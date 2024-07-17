@@ -27,6 +27,7 @@ jobs:
         git config --local user.email 'github-actions[bot]'
         git config --local user.name 'github-actions[bot]@users.noreply.github.com'
         git add gameStats.json
+        git add globalStats.json
         git commit -m "Updated counter"
     - name: Push changes
       uses: ad-m/github-push-action@master
