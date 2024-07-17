@@ -1,0 +1,31 @@
+name: Counter updater
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 20
+        cache: 'npm'
+    - name: Install dependencies
+      run: |
+        npm install
+    - run: node index.js
+    - name: Commit files
+      run: |
+        git config --local user.email 'github-actions[bot]'
+        git config --local user.name 'github-actions[bot]@users.noreply.github.com'
+        git add gameStats.json
+        git commit -m "Updated counter"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+      
