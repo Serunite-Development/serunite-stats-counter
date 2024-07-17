@@ -1,17 +1,17 @@
 {
-  "Be a Tornado": {
-    "CCU": 790,
-    "Visits": 13113214,
-    "Ratio": 91
-  },
   "Be a Snake": {
-    "CCU": 2082,
-    "Visits": 21187465,
+    "CCU": 2518,
+    "Visits": 21262981,
     "Ratio": 89
   },
+  "Be a Tornado": {
+    "CCU": 946,
+    "Visits": 13160040,
+    "Ratio": 91
+  },
   "Fire Fighting Simulator": {
-    "CCU": 74,
-    "Visits": 2624513,
+    "CCU": 91,
+    "Visits": 2628150,
     "Ratio": 88
   }
 }
