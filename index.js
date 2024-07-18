@@ -18,6 +18,7 @@ let weeklyPlaytime = 0;
 let weeklyVisits = 0;
 let totalVisits = 0;
 let totalFavorites = 0;
+let totalCCU = 0;
 for (let gameName in inputGames) {
 	const assetId = inputGames[gameName];
 
@@ -35,6 +36,7 @@ for (let gameName in inputGames) {
 
 			totalVisits += data['VisitedCount'];
 			totalFavorites += data['FavoritedCount'];
+			totalCCU += data['OnlineCount']
 
 			gameStats[gameName] = {
 				CCU: data['OnlineCount'],
@@ -121,6 +123,7 @@ Promise.all(promises)
 			JSON.stringify(
 				{
 					TotalVisits: totalVisits,
+					TotalCCU: totalCCU,
 					TotalFavorites: totalFavorites,
 					MonthlyAverageHours: monthlyAverageHours,
 				},
