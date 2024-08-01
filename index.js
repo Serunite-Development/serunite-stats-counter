@@ -49,7 +49,7 @@ for (let gameName in inputGames) {
 		});
 
 	const lastWeekTimestampMonth = lastWeekTimestamp.getMonth() + 1;
-	const currentWeekMonth = lastWeekTimestamp.getMonth() + 1; // 0 indexing D:
+	const currentWeekMonth = currentDate.getMonth() + 1; // 0 indexing D:
 
 	const startRange = `${lastWeekTimestamp.getFullYear()}-${
 		(lastWeekTimestampMonth < 10 ? '0' : '') + lastWeekTimestampMonth
