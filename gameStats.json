@@ -1,52 +1,52 @@
 {
+  "Be a Tornado": {
+    "CCU": 1126,
+    "Visits": 16640621,
+    "Ratio": 91
+  },
   "Be a Snake": {
-    "CCU": 2615,
-    "Visits": 27505256,
+    "CCU": 2556,
+    "Visits": 27604247,
     "Ratio": 89
   },
+  "Fire Fighting Simulator": {
+    "CCU": 81,
+    "Visits": 2939773,
+    "Ratio": 88
+  },
   "Ride a Cart Simulator": {
-    "CCU": 2761,
-    "Visits": 126324823,
+    "CCU": 2558,
+    "Visits": 126401131,
     "Ratio": 95
   },
-  "Fire Fighting Simulator": {
-    "CCU": 105,
-    "Visits": 2935202,
-    "Ratio": 88
+  "Be a Spider! Tycoon": {
+    "CCU": 261,
+    "Visits": 105337694,
+    "Ratio": 92
+  },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 429,
+    "Visits": 78314624,
+    "Ratio": 96
   },
   "Be a Shark": {
-    "CCU": 1151,
-    "Visits": 37374783,
+    "CCU": 1133,
+    "Visits": 37434878,
     "Ratio": 88
   },
+  "Baby City! RP": {
+    "CCU": 184,
+    "Visits": 86457447,
+    "Ratio": 77
+  },
   "Destroy It! Simulator": {
-    "CCU": 183,
-    "Visits": 17277274,
+    "CCU": 172,
+    "Visits": 17282958,
     "Ratio": 92
   },
   "EAT A FRIEND": {
-    "CCU": 122,
-    "Visits": 6525149,
+    "CCU": 145,
+    "Visits": 6533615,
     "Ratio": 89
-  },
-  "Be a Spider! Tycoon": {
-    "CCU": 354,
-    "Visits": 105325716,
-    "Ratio": 92
-  },
-  "Baby City! RP": {
-    "CCU": 238,
-    "Visits": 86450402,
-    "Ratio": 77
-  },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 575,
-    "Visits": 78296426,
-    "Ratio": 96
-  },
-  "Be a Tornado": {
-    "CCU": 1030,
-    "Visits": 16588089,
-    "Ratio": 91
   }
 }
