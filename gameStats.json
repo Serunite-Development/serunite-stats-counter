@@ -1,67 +1,67 @@
 {
-  "Fire Fighting Simulator": {
-    "CCU": 115,
-    "Visits": 3243324,
-    "Ratio": 88
-  },
   "Be a Snake": {
-    "CCU": 2117,
-    "Visits": 34596125,
+    "CCU": 1958,
+    "Visits": 34676342,
     "Ratio": 89
   },
-  "Be a Spider! Tycoon": {
-    "CCU": 328,
-    "Visits": 106092869,
-    "Ratio": 92
-  },
-  "Ride a Cart Simulator": {
-    "CCU": 1996,
-    "Visits": 131327139,
-    "Ratio": 95
-  },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 413,
-    "Visits": 79473340,
-    "Ratio": 96
-  },
   "Be a Tornado": {
-    "CCU": 1076,
-    "Visits": 20208788,
+    "CCU": 978,
+    "Visits": 20261748,
     "Ratio": 91
   },
-  "Be a Shark": {
-    "CCU": 918,
-    "Visits": 41021638,
+  "Ride a Cart Simulator": {
+    "CCU": 2101,
+    "Visits": 131383956,
+    "Ratio": 95
+  },
+  "Fire Fighting Simulator": {
+    "CCU": 91,
+    "Visits": 3248990,
     "Ratio": 88
   },
+  "Be a Shark": {
+    "CCU": 942,
+    "Visits": 41066951,
+    "Ratio": 88
+  },
+  "Be a Spider! Tycoon": {
+    "CCU": 310,
+    "Visits": 106104156,
+    "Ratio": 92
+  },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 504,
+    "Visits": 79489561,
+    "Ratio": 96
+  },
   "EAT A FRIEND": {
-    "CCU": 93,
-    "Visits": 7062994,
+    "CCU": 80,
+    "Visits": 7068651,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 60,
-    "Visits": 86842198,
+    "CCU": 74,
+    "Visits": 86845120,
     "Ratio": 77
   },
-  "Be a Dragon": {
-    "CCU": 1931,
-    "Visits": 952814,
-    "Ratio": 87
+  "Drive and Crash Into People": {
+    "CCU": 221,
+    "Visits": 733232,
+    "Ratio": 85
   },
   "Bear Simulator": {
-    "CCU": 720,
-    "Visits": 2359894,
+    "CCU": 506,
+    "Visits": 2389479,
     "Ratio": 88
   },
   "Destroy It! Simulator": {
-    "CCU": 184,
-    "Visits": 17653547,
+    "CCU": 137,
+    "Visits": 17658189,
     "Ratio": 92
   },
-  "Drive and Crash Into People": {
-    "CCU": 213,
-    "Visits": 716773,
-    "Ratio": 85
+  "Be a Dragon": {
+    "CCU": 1459,
+    "Visits": 1028373,
+    "Ratio": 87
   }
 }
