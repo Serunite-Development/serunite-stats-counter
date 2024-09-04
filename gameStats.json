@@ -1,72 +1,72 @@
 {
-  "Be a Snake": {
-    "CCU": 1495,
-    "Visits": 37716065,
-    "Ratio": 89
-  },
-  "Ride a Cart Simulator": {
-    "CCU": 1830,
-    "Visits": 133712982,
-    "Ratio": 95
-  },
   "Be a Tornado": {
-    "CCU": 578,
-    "Visits": 22301463,
+    "CCU": 682,
+    "Visits": 22337229,
     "Ratio": 91
   },
-  "Be a Spider! Tycoon": {
-    "CCU": 262,
-    "Visits": 106519433,
-    "Ratio": 92
+  "Be a Snake": {
+    "CCU": 1586,
+    "Visits": 37779163,
+    "Ratio": 89
   },
   "Fire Fighting Simulator": {
     "CCU": 39,
-    "Visits": 3401938,
+    "Visits": 3404430,
     "Ratio": 88
   },
   "Be a Shark": {
-    "CCU": 742,
-    "Visits": 42684080,
+    "CCU": 580,
+    "Visits": 42719420,
     "Ratio": 88
   },
+  "Be a Spider! Tycoon": {
+    "CCU": 183,
+    "Visits": 106527724,
+    "Ratio": 92
+  },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 257,
-    "Visits": 80024354,
+    "CCU": 288,
+    "Visits": 80034529,
     "Ratio": 96
   },
+  "Bear Simulator": {
+    "CCU": 302,
+    "Visits": 3192215,
+    "Ratio": 89
+  },
   "Baby City! RP": {
-    "CCU": 69,
-    "Visits": 86964597,
+    "CCU": 53,
+    "Visits": 86967465,
     "Ratio": 77
   },
   "EAT A FRIEND": {
-    "CCU": 65,
-    "Visits": 7291752,
+    "CCU": 67,
+    "Visits": 7296533,
     "Ratio": 89
   },
   "Destroy It! Simulator": {
-    "CCU": 76,
-    "Visits": 17813567,
+    "CCU": 68,
+    "Visits": 17816135,
     "Ratio": 92
   },
-  "Drive and Crash Into People": {
-    "CCU": 213,
-    "Visits": 1690621,
-    "Ratio": 86
-  },
-  "Bear Simulator": {
-    "CCU": 258,
-    "Visits": 3177102,
-    "Ratio": 88
-  },
   "Be a Tank": {
-    "CCU": 359,
-    "Visits": 4303552,
+    "CCU": 314,
+    "Visits": 4319732,
     "Ratio": 85
   },
   "Be a Dragon": {
-    "CCU": 310,
-    "Visits": 2806282,
+    "CCU": 348,
+    "Visits": 2823786,
     "Ratio": 88
+  },
+  "Drive and Crash Into People": {
+    "CCU": 191,
+    "Visits": 1704602,
+    "Ratio": 86
+  },
+  "Ride a Cart Simulator": {
+    "CCU": 1633,
+    "Visits": 133760408,
+    "Ratio": 95
   }
 }
