@@ -1,72 +1,72 @@
 {
-  "Be a Tornado": {
-    "CCU": 906,
-    "Visits": 22954543,
-    "Ratio": 91
-  },
   "Be a Snake": {
-    "CCU": 2077,
-    "Visits": 38839206,
+    "CCU": 1262,
+    "Visits": 38908299,
     "Ratio": 89
   },
+  "Be a Tornado": {
+    "CCU": 558,
+    "Visits": 22992200,
+    "Ratio": 91
+  },
   "Ride a Cart Simulator": {
-    "CCU": 2582,
-    "Visits": 134716165,
+    "CCU": 1658,
+    "Visits": 134779109,
     "Ratio": 95
   },
-  "Be a Shark": {
-    "CCU": 882,
-    "Visits": 43251602,
-    "Ratio": 88
-  },
-  "Be a Spider! Tycoon": {
-    "CCU": 315,
-    "Visits": 106671587,
-    "Ratio": 92
-  },
   "Fire Fighting Simulator": {
-    "CCU": 59,
-    "Visits": 3453097,
+    "CCU": 26,
+    "Visits": 3455820,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 456,
-    "Visits": 80207915,
+    "CCU": 321,
+    "Visits": 80220914,
     "Ratio": 96
   },
+  "Be a Shark": {
+    "CCU": 574,
+    "Visits": 43289874,
+    "Ratio": 88
+  },
   "EAT A FRIEND": {
-    "CCU": 115,
-    "Visits": 7392762,
+    "CCU": 75,
+    "Visits": 7399463,
     "Ratio": 89
   },
+  "Baby City! RP": {
+    "CCU": 38,
+    "Visits": 87008585,
+    "Ratio": 77
+  },
   "Bear Simulator": {
-    "CCU": 353,
-    "Visits": 3441703,
+    "CCU": 208,
+    "Visits": 3456719,
     "Ratio": 89
   },
   "Destroy It! Simulator": {
-    "CCU": 133,
-    "Visits": 17869728,
+    "CCU": 77,
+    "Visits": 17873178,
     "Ratio": 92
   },
-  "Drive and Crash Into People": {
-    "CCU": 210,
-    "Visits": 1859541,
-    "Ratio": 86
-  },
-  "Baby City! RP": {
-    "CCU": 96,
-    "Visits": 87005938,
-    "Ratio": 77
+  "Be a Tank": {
+    "CCU": 282,
+    "Visits": 4641315,
+    "Ratio": 85
   },
   "Be a Dragon": {
-    "CCU": 424,
-    "Visits": 3182351,
+    "CCU": 312,
+    "Visits": 3202189,
     "Ratio": 88
   },
-  "Be a Tank": {
-    "CCU": 429,
-    "Visits": 4624737,
-    "Ratio": 85
+  "Drive and Crash Into People": {
+    "CCU": 160,
+    "Visits": 1872086,
+    "Ratio": 87
+  },
+  "Be a Spider! Tycoon": {
+    "CCU": 134,
+    "Visits": 106680426,
+    "Ratio": 92
   }
 }
