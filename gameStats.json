@@ -1,72 +1,72 @@
 {
-  "Be a Tornado": {
-    "CCU": 659,
-    "Visits": 23304767,
-    "Ratio": 91
-  },
-  "Fire Fighting Simulator": {
-    "CCU": 24,
-    "Visits": 3483090,
-    "Ratio": 88
+  "Be a Snake": {
+    "CCU": 564,
+    "Visits": 39543507,
+    "Ratio": 89
   },
   "Be a Spider! Tycoon": {
-    "CCU": 165,
-    "Visits": 106744439,
+    "CCU": 92,
+    "Visits": 106748005,
     "Ratio": 92
   },
-  "Be a Snake": {
-    "CCU": 1513,
-    "Visits": 39506366,
-    "Ratio": 89
-  },
-  "Ride a Cart Simulator": {
-    "CCU": 1435,
-    "Visits": 135259694,
-    "Ratio": 95
-  },
   "Be a Shark": {
-    "CCU": 448,
-    "Visits": 43526255,
+    "CCU": 215,
+    "Visits": 43538669,
     "Ratio": 88
   },
-  "Baby City! RP": {
-    "CCU": 43,
-    "Visits": 87024068,
-    "Ratio": 77
+  "Fire Fighting Simulator": {
+    "CCU": 33,
+    "Visits": 3484774,
+    "Ratio": 88
   },
   "Bear Simulator": {
-    "CCU": 166,
-    "Visits": 3555273,
-    "Ratio": 89
-  },
-  "EAT A FRIEND": {
-    "CCU": 61,
-    "Visits": 7448119,
+    "CCU": 96,
+    "Visits": 3560383,
     "Ratio": 89
   },
   "Be a Dragon": {
-    "CCU": 301,
-    "Visits": 3359293,
+    "CCU": 175,
+    "Visits": 3368250,
     "Ratio": 88
   },
+  "Baby City! RP": {
+    "CCU": 30,
+    "Visits": 87025030,
+    "Ratio": 77
+  },
   "Drive and Crash Into People": {
-    "CCU": 80,
-    "Visits": 1932565,
+    "CCU": 30,
+    "Visits": 1936510,
     "Ratio": 86
   },
   "Destroy It! Simulator": {
-    "CCU": 66,
-    "Visits": 17902973,
+    "CCU": 55,
+    "Visits": 17904583,
     "Ratio": 92
   },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 108,
+    "Visits": 80318678,
+    "Ratio": 96
+  },
   "Be a Tank": {
-    "CCU": 273,
-    "Visits": 4768665,
+    "CCU": 148,
+    "Visits": 4775774,
     "Ratio": 85
   },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 261,
-    "Visits": 80312973,
-    "Ratio": 96
+  "Ride a Cart Simulator": {
+    "CCU": 1046,
+    "Visits": 135286417,
+    "Ratio": 95
+  },
+  "EAT A FRIEND": {
+    "CCU": 30,
+    "Visits": 7450376,
+    "Ratio": 89
+  },
+  "Be a Tornado": {
+    "CCU": 283,
+    "Visits": 23323487,
+    "Ratio": 91
   }
 }
