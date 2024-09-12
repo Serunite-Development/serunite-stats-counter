@@ -1,72 +1,72 @@
 {
+  "Be a Tornado": {
+    "CCU": 677,
+    "Visits": 23345561,
+    "Ratio": 91
+  },
   "Be a Snake": {
-    "CCU": 564,
-    "Visits": 39543507,
+    "CCU": 1198,
+    "Visits": 39578805,
     "Ratio": 89
   },
-  "Be a Spider! Tycoon": {
-    "CCU": 92,
-    "Visits": 106748005,
-    "Ratio": 92
+  "Ride a Cart Simulator": {
+    "CCU": 1403,
+    "Visits": 135319065,
+    "Ratio": 95
   },
   "Be a Shark": {
-    "CCU": 215,
-    "Visits": 43538669,
+    "CCU": 460,
+    "Visits": 43552886,
+    "Ratio": 88
+  },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 202,
+    "Visits": 80323431,
+    "Ratio": 96
+  },
+  "EAT A FRIEND": {
+    "CCU": 51,
+    "Visits": 7453401,
+    "Ratio": 89
+  },
+  "Destroy It! Simulator": {
+    "CCU": 102,
+    "Visits": 17907007,
+    "Ratio": 92
+  },
+  "Baby City! RP": {
+    "CCU": 49,
+    "Visits": 87026389,
+    "Ratio": 77
+  },
+  "Bear Simulator": {
+    "CCU": 206,
+    "Visits": 3566414,
+    "Ratio": 89
+  },
+  "Drive and Crash Into People": {
+    "CCU": 63,
+    "Visits": 1939565,
+    "Ratio": 86
+  },
+  "Be a Tank": {
+    "CCU": 261,
+    "Visits": 4785168,
+    "Ratio": 85
+  },
+  "Be a Spider! Tycoon": {
+    "CCU": 173,
+    "Visits": 106752750,
+    "Ratio": 92
+  },
+  "Be a Dragon": {
+    "CCU": 353,
+    "Visits": 3380792,
     "Ratio": 88
   },
   "Fire Fighting Simulator": {
-    "CCU": 33,
-    "Visits": 3484774,
+    "CCU": 56,
+    "Visits": 3486974,
     "Ratio": 88
-  },
-  "Bear Simulator": {
-    "CCU": 96,
-    "Visits": 3560383,
-    "Ratio": 89
-  },
-  "Be a Dragon": {
-    "CCU": 175,
-    "Visits": 3368250,
-    "Ratio": 88
-  },
-  "Baby City! RP": {
-    "CCU": 30,
-    "Visits": 87025030,
-    "Ratio": 77
-  },
-  "Drive and Crash Into People": {
-    "CCU": 30,
-    "Visits": 1936510,
-    "Ratio": 86
-  },
-  "Destroy It! Simulator": {
-    "CCU": 55,
-    "Visits": 17904583,
-    "Ratio": 92
-  },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 108,
-    "Visits": 80318678,
-    "Ratio": 96
-  },
-  "Be a Tank": {
-    "CCU": 148,
-    "Visits": 4775774,
-    "Ratio": 85
-  },
-  "Ride a Cart Simulator": {
-    "CCU": 1046,
-    "Visits": 135286417,
-    "Ratio": 95
-  },
-  "EAT A FRIEND": {
-    "CCU": 30,
-    "Visits": 7450376,
-    "Ratio": 89
-  },
-  "Be a Tornado": {
-    "CCU": 283,
-    "Visits": 23323487,
-    "Ratio": 91
   }
 }
