@@ -1,72 +1,72 @@
 {
-  "Be a Snake": {
-    "CCU": 1702,
-    "Visits": 41510548,
-    "Ratio": 89
-  },
   "Be a Tornado": {
-    "CCU": 476,
-    "Visits": 24022314,
+    "CCU": 629,
+    "Visits": 24048272,
     "Ratio": 91
   },
   "Fire Fighting Simulator": {
-    "CCU": 24,
-    "Visits": 3530018,
+    "CCU": 45,
+    "Visits": 3532164,
     "Ratio": 88
   },
+  "Ride a Cart Simulator": {
+    "CCU": 1748,
+    "Visits": 136154572,
+    "Ratio": 95
+  },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 228,
+    "Visits": 80507975,
+    "Ratio": 96
+  },
   "Be a Shark": {
-    "CCU": 345,
-    "Visits": 43969764,
+    "CCU": 447,
+    "Visits": 43988458,
     "Ratio": 88
   },
   "Be a Spider! Tycoon": {
-    "CCU": 133,
-    "Visits": 106882393,
-    "Ratio": 92
-  },
-  "EAT A FRIEND": {
-    "CCU": 48,
-    "Visits": 7520418,
-    "Ratio": 89
-  },
-  "Mow The Lawn! [Simulator]": {
     "CCU": 199,
-    "Visits": 80502047,
-    "Ratio": 96
-  },
-  "Ride a Cart Simulator": {
-    "CCU": 1515,
-    "Visits": 136110251,
-    "Ratio": 95
-  },
-  "Destroy It! Simulator": {
-    "CCU": 71,
-    "Visits": 17963499,
+    "Visits": 106887408,
     "Ratio": 92
   },
   "Baby City! RP": {
-    "CCU": 37,
-    "Visits": 87070781,
+    "CCU": 85,
+    "Visits": 87072978,
     "Ratio": 77
   },
+  "EAT A FRIEND": {
+    "CCU": 75,
+    "Visits": 7524223,
+    "Ratio": 89
+  },
+  "Be a Tank": {
+    "CCU": 267,
+    "Visits": 5022256,
+    "Ratio": 85
+  },
   "Bear Simulator": {
-    "CCU": 133,
-    "Visits": 3736870,
+    "CCU": 207,
+    "Visits": 3743522,
     "Ratio": 89
   },
   "Be a Dragon": {
-    "CCU": 262,
-    "Visits": 3674832,
+    "CCU": 362,
+    "Visits": 3688158,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
-    "CCU": 65,
-    "Visits": 2048399,
+    "CCU": 61,
+    "Visits": 2052704,
     "Ratio": 87
   },
-  "Be a Tank": {
-    "CCU": 156,
-    "Visits": 5012332,
-    "Ratio": 85
+  "Destroy It! Simulator": {
+    "CCU": 115,
+    "Visits": 17966016,
+    "Ratio": 92
+  },
+  "Be a Snake": {
+    "CCU": 2609,
+    "Visits": 41586500,
+    "Ratio": 89
   }
 }
