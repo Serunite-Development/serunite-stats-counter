@@ -1,72 +1,72 @@
 {
+  "Fire Fighting Simulator": {
+    "CCU": 29,
+    "Visits": 3599668,
+    "Ratio": 88
+  },
+  "Be a Spider! Tycoon": {
+    "CCU": 153,
+    "Visits": 107078667,
+    "Ratio": 92
+  },
   "Be a Tornado": {
-    "CCU": 1029,
-    "Visits": 24906711,
+    "CCU": 621,
+    "Visits": 24951967,
     "Ratio": 91
   },
   "Be a Shark": {
-    "CCU": 3095,
-    "Visits": 45419794,
+    "CCU": 1998,
+    "Visits": 45546163,
     "Ratio": 88
-  },
-  "Be a Snake": {
-    "CCU": 4804,
-    "Visits": 44636116,
-    "Ratio": 89
-  },
-  "Fire Fighting Simulator": {
-    "CCU": 54,
-    "Visits": 3596830,
-    "Ratio": 88
-  },
-  "Ride a Cart Simulator": {
-    "CCU": 2602,
-    "Visits": 137418465,
-    "Ratio": 95
-  },
-  "Be a Spider! Tycoon": {
-    "CCU": 379,
-    "Visits": 107070128,
-    "Ratio": 92
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 695,
-    "Visits": 80806091,
+    "CCU": 461,
+    "Visits": 80825433,
     "Ratio": 96
   },
-  "Drive and Crash Into People": {
-    "CCU": 158,
-    "Visits": 2204501,
-    "Ratio": 87
-  },
-  "EAT A FRIEND": {
-    "CCU": 107,
-    "Visits": 7624715,
-    "Ratio": 89
-  },
-  "Bear Simulator": {
-    "CCU": 368,
-    "Visits": 4023215,
-    "Ratio": 89
-  },
-  "Be a Tank": {
-    "CCU": 317,
-    "Visits": 5348684,
-    "Ratio": 85
-  },
   "Baby City! RP": {
-    "CCU": 2749,
-    "Visits": 87782311,
+    "CCU": 1589,
+    "Visits": 87876385,
     "Ratio": 77
   },
+  "Bear Simulator": {
+    "CCU": 263,
+    "Visits": 4041192,
+    "Ratio": 89
+  },
   "Be a Dragon": {
-    "CCU": 499,
-    "Visits": 4085735,
+    "CCU": 341,
+    "Visits": 4107944,
     "Ratio": 88
   },
+  "Drive and Crash Into People": {
+    "CCU": 120,
+    "Visits": 2215003,
+    "Ratio": 87
+  },
+  "Ride a Cart Simulator": {
+    "CCU": 1795,
+    "Visits": 137486807,
+    "Ratio": 95
+  },
+  "Be a Snake": {
+    "CCU": 2747,
+    "Visits": 44801331,
+    "Ratio": 89
+  },
+  "EAT A FRIEND": {
+    "CCU": 113,
+    "Visits": 7630821,
+    "Ratio": 89
+  },
   "Destroy It! Simulator": {
-    "CCU": 151,
-    "Visits": 18054138,
+    "CCU": 95,
+    "Visits": 18057894,
     "Ratio": 92
+  },
+  "Be a Tank": {
+    "CCU": 203,
+    "Visits": 5362707,
+    "Ratio": 85
   }
 }
