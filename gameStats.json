@@ -1,72 +1,72 @@
 {
-  "Be a Tornado": {
-    "CCU": 302,
-    "Visits": 25747179,
-    "Ratio": 91
+  "Be a Snake": {
+    "CCU": 925,
+    "Visits": 46610502,
+    "Ratio": 89
   },
   "Ride a Cart Simulator": {
-    "CCU": 1004,
-    "Visits": 138642679,
+    "CCU": 1318,
+    "Visits": 138674050,
     "Ratio": 95
   },
-  "Fire Fighting Simulator": {
-    "CCU": 37,
-    "Visits": 3666548,
-    "Ratio": 88
-  },
-  "Be a Shark": {
-    "CCU": 877,
-    "Visits": 47980461,
-    "Ratio": 88
-  },
   "Be a Spider! Tycoon": {
-    "CCU": 232,
-    "Visits": 107345689,
+    "CCU": 446,
+    "Visits": 107355136,
     "Ratio": 92
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 240,
-    "Visits": 81168878,
+    "CCU": 289,
+    "Visits": 81176219,
     "Ratio": 96
   },
-  "Be a Snake": {
-    "CCU": 565,
-    "Visits": 46581888,
-    "Ratio": 89
-  },
-  "EAT A FRIEND": {
-    "CCU": 16,
-    "Visits": 7728038,
-    "Ratio": 89
+  "Be a Shark": {
+    "CCU": 1471,
+    "Visits": 48027847,
+    "Ratio": 88
   },
   "Baby City! RP": {
-    "CCU": 252,
-    "Visits": 89284261,
+    "CCU": 445,
+    "Visits": 89297139,
     "Ratio": 77
   },
   "Bear Simulator": {
-    "CCU": 84,
-    "Visits": 4316425,
+    "CCU": 149,
+    "Visits": 4321529,
     "Ratio": 89
   },
+  "EAT A FRIEND": {
+    "CCU": 36,
+    "Visits": 7730187,
+    "Ratio": 89
+  },
+  "Destroy It! Simulator": {
+    "CCU": 151,
+    "Visits": 18149042,
+    "Ratio": 92
+  },
   "Drive and Crash Into People": {
-    "CCU": 31,
-    "Visits": 2356677,
+    "CCU": 54,
+    "Visits": 2359003,
     "Ratio": 87
   },
   "Be a Dragon": {
-    "CCU": 133,
-    "Visits": 4458314,
+    "CCU": 248,
+    "Visits": 4467335,
     "Ratio": 88
   },
   "Be a Tank": {
-    "CCU": 157,
-    "Visits": 5679017,
+    "CCU": 273,
+    "Visits": 5688080,
     "Ratio": 85
   },
-  "Destroy It! Simulator": {
-    "CCU": 101,
-    "Visits": 18146062,
-    "Ratio": 92
+  "Fire Fighting Simulator": {
+    "CCU": 49,
+    "Visits": 3668877,
+    "Ratio": 88
+  },
+  "Be a Tornado": {
+    "CCU": 580,
+    "Visits": 25766985,
+    "Ratio": 91
   }
 }
