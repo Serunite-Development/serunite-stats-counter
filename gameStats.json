@@ -1,72 +1,72 @@
 {
   "Be a Tornado": {
-    "CCU": 682,
-    "Visits": 26693179,
+    "CCU": 424,
+    "Visits": 26715559,
     "Ratio": 91
   },
-  "Fire Fighting Simulator": {
-    "CCU": 48,
-    "Visits": 3777548,
-    "Ratio": 88
-  },
   "Be a Snake": {
-    "CCU": 1067,
-    "Visits": 48243486,
+    "CCU": 517,
+    "Visits": 48267389,
     "Ratio": 89
   },
   "Ride a Cart Simulator": {
-    "CCU": 933,
-    "Visits": 139940584,
+    "CCU": 809,
+    "Visits": 139961422,
     "Ratio": 95
   },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 317,
-    "Visits": 81670746,
-    "Ratio": 96
+  "Fire Fighting Simulator": {
+    "CCU": 39,
+    "Visits": 3779393,
+    "Ratio": 88
   },
   "Be a Shark": {
-    "CCU": 1001,
-    "Visits": 50082897,
+    "CCU": 554,
+    "Visits": 50112144,
     "Ratio": 88
   },
   "Be a Spider! Tycoon": {
-    "CCU": 726,
-    "Visits": 108246246,
+    "CCU": 465,
+    "Visits": 108260898,
     "Ratio": 92
   },
-  "Baby City! RP": {
-    "CCU": 1588,
-    "Visits": 90583291,
-    "Ratio": 77
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 184,
+    "Visits": 81677595,
+    "Ratio": 96
   },
   "EAT A FRIEND": {
-    "CCU": 59,
-    "Visits": 7849182,
+    "CCU": 29,
+    "Visits": 7851588,
+    "Ratio": 89
+  },
+  "Bear Simulator": {
+    "CCU": 101,
+    "Visits": 4628520,
     "Ratio": 89
   },
   "Destroy It! Simulator": {
-    "CCU": 154,
-    "Visits": 18321271,
+    "CCU": 144,
+    "Visits": 18324174,
     "Ratio": 92
   },
-  "Bear Simulator": {
-    "CCU": 149,
-    "Visits": 4623734,
-    "Ratio": 89
-  },
-  "Be a Dragon": {
-    "CCU": 219,
-    "Visits": 4910763,
-    "Ratio": 89
-  },
-  "Be a Tank": {
-    "CCU": 262,
-    "Visits": 6208370,
-    "Ratio": 86
+  "Baby City! RP": {
+    "CCU": 1044,
+    "Visits": 90624283,
+    "Ratio": 77
   },
   "Drive and Crash Into People": {
-    "CCU": 90,
-    "Visits": 2523590,
+    "CCU": 40,
+    "Visits": 2527066,
     "Ratio": 87
+  },
+  "Be a Tank": {
+    "CCU": 197,
+    "Visits": 6217470,
+    "Ratio": 86
+  },
+  "Be a Dragon": {
+    "CCU": 158,
+    "Visits": 4918192,
+    "Ratio": 89
   }
 }
