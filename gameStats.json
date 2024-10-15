@@ -1,72 +1,72 @@
 {
   "Be a Tornado": {
-    "CCU": 757,
-    "Visits": 27634354,
+    "CCU": 1301,
+    "Visits": 27674979,
     "Ratio": 91
   },
-  "Be a Snake": {
-    "CCU": 710,
-    "Visits": 49569180,
-    "Ratio": 89
-  },
   "Ride a Cart Simulator": {
-    "CCU": 781,
-    "Visits": 140624678,
+    "CCU": 963,
+    "Visits": 140649954,
     "Ratio": 95
   },
+  "Be a Snake": {
+    "CCU": 1302,
+    "Visits": 49603994,
+    "Ratio": 89
+  },
   "Fire Fighting Simulator": {
-    "CCU": 35,
-    "Visits": 3842627,
+    "CCU": 58,
+    "Visits": 3845343,
     "Ratio": 88
   },
   "Be a Shark": {
-    "CCU": 597,
-    "Visits": 51148632,
+    "CCU": 1032,
+    "Visits": 51182487,
     "Ratio": 88
   },
+  "Be a Spider! Tycoon": {
+    "CCU": 461,
+    "Visits": 108755501,
+    "Ratio": 92
+  },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 231,
-    "Visits": 81940781,
+    "CCU": 307,
+    "Visits": 81948278,
     "Ratio": 96
   },
   "Baby City! RP": {
-    "CCU": 509,
-    "Visits": 91829331,
+    "CCU": 883,
+    "Visits": 91855138,
     "Ratio": 77
   },
   "EAT A FRIEND": {
-    "CCU": 53,
-    "Visits": 7948030,
-    "Ratio": 89
-  },
-  "Destroy It! Simulator": {
-    "CCU": 135,
-    "Visits": 18437835,
-    "Ratio": 92
-  },
-  "Bear Simulator": {
-    "CCU": 96,
-    "Visits": 4804623,
+    "CCU": 67,
+    "Visits": 7951120,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 185,
-    "Visits": 6511560,
+    "CCU": 308,
+    "Visits": 6522332,
     "Ratio": 86
   },
   "Drive and Crash Into People": {
-    "CCU": 42,
-    "Visits": 2618086,
+    "CCU": 33,
+    "Visits": 2620173,
     "Ratio": 87
   },
-  "Be a Dragon": {
-    "CCU": 166,
-    "Visits": 5199239,
+  "Bear Simulator": {
+    "CCU": 168,
+    "Visits": 4810512,
     "Ratio": 89
   },
-  "Be a Spider! Tycoon": {
-    "CCU": 308,
-    "Visits": 108744914,
+  "Be a Dragon": {
+    "CCU": 283,
+    "Visits": 5209383,
+    "Ratio": 89
+  },
+  "Destroy It! Simulator": {
+    "CCU": 251,
+    "Visits": 18442432,
     "Ratio": 92
   }
 }
