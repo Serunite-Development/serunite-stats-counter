@@ -1,72 +1,72 @@
 {
   "Be a Tornado": {
-    "CCU": 2996,
-    "Visits": 29161152,
+    "CCU": 4188,
+    "Visits": 29313797,
     "Ratio": 91
   },
-  "Ride a Cart Simulator": {
-    "CCU": 744,
-    "Visits": 140945954,
-    "Ratio": 95
-  },
   "Be a Snake": {
-    "CCU": 1155,
-    "Visits": 50432767,
+    "CCU": 1951,
+    "Visits": 50491846,
     "Ratio": 89
   },
-  "Be a Shark": {
-    "CCU": 746,
-    "Visits": 51712828,
+  "Fire Fighting Simulator": {
+    "CCU": 87,
+    "Visits": 3879030,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 265,
-    "Visits": 82077781,
+    "CCU": 358,
+    "Visits": 82087134,
     "Ratio": 96
   },
-  "EAT A FRIEND": {
-    "CCU": 49,
-    "Visits": 7993676,
-    "Ratio": 89
-  },
   "Be a Spider! Tycoon": {
-    "CCU": 293,
-    "Visits": 108883057,
+    "CCU": 445,
+    "Visits": 108893163,
     "Ratio": 92
   },
-  "Fire Fighting Simulator": {
-    "CCU": 44,
-    "Visits": 3876214,
-    "Ratio": 88
+  "Ride a Cart Simulator": {
+    "CCU": 1115,
+    "Visits": 140972370,
+    "Ratio": 95
   },
   "Baby City! RP": {
-    "CCU": 534,
-    "Visits": 92196526,
+    "CCU": 706,
+    "Visits": 92221142,
     "Ratio": 77
   },
+  "Be a Shark": {
+    "CCU": 1225,
+    "Visits": 51753957,
+    "Ratio": 88
+  },
   "Destroy It! Simulator": {
-    "CCU": 165,
-    "Visits": 18497317,
+    "CCU": 316,
+    "Visits": 18503553,
     "Ratio": 92
   },
   "Bear Simulator": {
-    "CCU": 107,
-    "Visits": 4898552,
+    "CCU": 196,
+    "Visits": 4905042,
     "Ratio": 89
   },
-  "Drive and Crash Into People": {
-    "CCU": 38,
-    "Visits": 2653703,
-    "Ratio": 87
+  "EAT A FRIEND": {
+    "CCU": 94,
+    "Visits": 7997958,
+    "Ratio": 89
   },
   "Be a Dragon": {
-    "CCU": 163,
-    "Visits": 5338851,
+    "CCU": 291,
+    "Visits": 5350053,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 192,
-    "Visits": 6649362,
+    "CCU": 354,
+    "Visits": 6661761,
     "Ratio": 86
+  },
+  "Drive and Crash Into People": {
+    "CCU": 28,
+    "Visits": 2655883,
+    "Ratio": 87
   }
 }
