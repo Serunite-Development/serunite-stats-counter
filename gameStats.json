@@ -1,72 +1,67 @@
 {
-  "Be a Tornado": {
-    "CCU": 5097,
-    "Visits": 30855373,
-    "Ratio": 91
-  },
-  "Be a Snake": {
-    "CCU": 2286,
-    "Visits": 51251945,
-    "Ratio": 89
-  },
   "Ride a Cart Simulator": {
-    "CCU": 1493,
-    "Visits": 141273187,
+    "CCU": 1407,
+    "Visits": 141314788,
     "Ratio": 95
   },
-  "Fire Fighting Simulator": {
-    "CCU": 78,
-    "Visits": 3907943,
-    "Ratio": 88
-  },
   "Be a Shark": {
-    "CCU": 1497,
-    "Visits": 52253059,
+    "CCU": 1774,
+    "Visits": 52331795,
     "Ratio": 88
   },
-  "Destroy It! Simulator": {
-    "CCU": 401,
-    "Visits": 18568665,
+  "Fire Fighting Simulator": {
+    "CCU": 97,
+    "Visits": 3912526,
+    "Ratio": 88
+  },
+  "Be a Spider! Tycoon": {
+    "CCU": 726,
+    "Visits": 109045132,
     "Ratio": 92
   },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 679,
+    "Visits": 82233670,
+    "Ratio": 96
+  },
   "EAT A FRIEND": {
-    "CCU": 78,
-    "Visits": 8043459,
+    "CCU": 88,
+    "Visits": 8048445,
     "Ratio": 89
   },
+  "Baby City! RP": {
+    "CCU": 566,
+    "Visits": 92441473,
+    "Ratio": 77
+  },
+  "Destroy It! Simulator": {
+    "CCU": 346,
+    "Visits": 18578566,
+    "Ratio": 92
+  },
+  "Be a Tornado": {
+    "CCU": 5522,
+    "Visits": 31096385,
+    "Ratio": 91
+  },
+  "Drive and Crash Into People": {
+    "CCU": 70,
+    "Visits": 2689040,
+    "Ratio": 87
+  },
   "Bear Simulator": {
-    "CCU": 214,
-    "Visits": 4985991,
+    "CCU": 308,
+    "Visits": 4998581,
+    "Ratio": 89
+  },
+  "Be a Snake": {
+    "CCU": 2788,
+    "Visits": 51365433,
     "Ratio": 89
   },
   "Be a Dragon": {
-    "CCU": 361,
-    "Visits": 5477942,
+    "CCU": 300,
+    "Visits": 5497092,
     "Ratio": 89
-  },
-  "Be a Tank": {
-    "CCU": 437,
-    "Visits": 6806280,
-    "Ratio": 86
-  },
-  "Drive and Crash Into People": {
-    "CCU": 47,
-    "Visits": 2685089,
-    "Ratio": 87
-  },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 473,
-    "Visits": 82213917,
-    "Ratio": 96
-  },
-  "Baby City! RP": {
-    "CCU": 593,
-    "Visits": 92416080,
-    "Ratio": 77
-  },
-  "Be a Spider! Tycoon": {
-    "CCU": 658,
-    "Visits": 109022641,
-    "Ratio": 92
   }
 }
