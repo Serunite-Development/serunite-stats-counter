@@ -1,72 +1,72 @@
 {
   "Be a Tornado": {
-    "CCU": 2706,
-    "Visits": 32689765,
+    "CCU": 1604,
+    "Visits": 32766487,
     "Ratio": 91
   },
-  "Ride a Cart Simulator": {
-    "CCU": 851,
-    "Visits": 141666776,
-    "Ratio": 95
-  },
-  "Be a Snake": {
-    "CCU": 1338,
-    "Visits": 52005410,
-    "Ratio": 89
-  },
-  "Be a Spider! Tycoon": {
-    "CCU": 387,
-    "Visits": 109183635,
-    "Ratio": 92
-  },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 373,
-    "Visits": 82386482,
-    "Ratio": 96
-  },
-  "EAT A FRIEND": {
-    "CCU": 80,
-    "Visits": 8095964,
-    "Ratio": 89
-  },
-  "Bear Simulator": {
-    "CCU": 143,
-    "Visits": 5088432,
-    "Ratio": 89
-  },
-  "Destroy It! Simulator": {
-    "CCU": 133,
-    "Visits": 18642306,
-    "Ratio": 92
-  },
   "Be a Shark": {
-    "CCU": 921,
-    "Visits": 52879883,
+    "CCU": 456,
+    "Visits": 52905331,
     "Ratio": 88
   },
+  "Be a Spider! Tycoon": {
+    "CCU": 231,
+    "Visits": 109190955,
+    "Ratio": 92
+  },
+  "Be a Snake": {
+    "CCU": 618,
+    "Visits": 52036054,
+    "Ratio": 89
+  },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 201,
+    "Visits": 82393770,
+    "Ratio": 96
+  },
+  "Fire Fighting Simulator": {
+    "CCU": 37,
+    "Visits": 3954290,
+    "Ratio": 88
+  },
+  "Bear Simulator": {
+    "CCU": 72,
+    "Visits": 5092584,
+    "Ratio": 89
+  },
   "Be a Tank": {
-    "CCU": 206,
-    "Visits": 6991130,
+    "CCU": 183,
+    "Visits": 6999427,
     "Ratio": 86
   },
   "Be a Dragon": {
-    "CCU": 252,
-    "Visits": 5632541,
+    "CCU": 144,
+    "Visits": 5639980,
     "Ratio": 89
   },
   "Drive and Crash Into People": {
-    "CCU": 52,
-    "Visits": 2730161,
+    "CCU": 28,
+    "Visits": 2732775,
     "Ratio": 87
   },
-  "Fire Fighting Simulator": {
-    "CCU": 52,
-    "Visits": 3952186,
-    "Ratio": 88
+  "Ride a Cart Simulator": {
+    "CCU": 764,
+    "Visits": 141685215,
+    "Ratio": 95
   },
   "Baby City! RP": {
-    "CCU": 180,
-    "Visits": 92577695,
+    "CCU": 130,
+    "Visits": 92582371,
     "Ratio": 77
+  },
+  "EAT A FRIEND": {
+    "CCU": 37,
+    "Visits": 8099069,
+    "Ratio": 89
+  },
+  "Destroy It! Simulator": {
+    "CCU": 118,
+    "Visits": 18645406,
+    "Ratio": 92
   }
 }
