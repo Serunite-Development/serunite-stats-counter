@@ -1,72 +1,72 @@
 {
   "Be a Tornado": {
-    "CCU": 3106,
-    "Visits": 34306788,
+    "CCU": 3044,
+    "Visits": 34457942,
     "Ratio": 91
   },
-  "Ride a Cart Simulator": {
-    "CCU": 1295,
-    "Visits": 142085112,
-    "Ratio": 95
-  },
-  "Fire Fighting Simulator": {
-    "CCU": 55,
-    "Visits": 3990998,
-    "Ratio": 88
-  },
   "Be a Snake": {
-    "CCU": 1643,
-    "Visits": 52781759,
+    "CCU": 2222,
+    "Visits": 52864133,
     "Ratio": 89
   },
-  "Be a Shark": {
-    "CCU": 1192,
-    "Visits": 53531715,
+  "Fire Fighting Simulator": {
+    "CCU": 53,
+    "Visits": 3994669,
     "Ratio": 88
   },
+  "Ride a Cart Simulator": {
+    "CCU": 1426,
+    "Visits": 142124496,
+    "Ratio": 95
+  },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 452,
-    "Visits": 82554816,
+    "CCU": 630,
+    "Visits": 82574345,
     "Ratio": 96
   },
   "Be a Spider! Tycoon": {
-    "CCU": 479,
-    "Visits": 109360374,
+    "CCU": 570,
+    "Visits": 109378936,
     "Ratio": 92
   },
   "EAT A FRIEND": {
-    "CCU": 117,
-    "Visits": 8163443,
+    "CCU": 128,
+    "Visits": 8170591,
     "Ratio": 89
   },
-  "Baby City! RP": {
-    "CCU": 406,
-    "Visits": 92724884,
-    "Ratio": 77
+  "Be a Shark": {
+    "CCU": 1717,
+    "Visits": 53600566,
+    "Ratio": 88
   },
   "Destroy It! Simulator": {
-    "CCU": 276,
-    "Visits": 18718260,
+    "CCU": 283,
+    "Visits": 18725768,
     "Ratio": 92
   },
-  "Be a Tank": {
-    "CCU": 389,
-    "Visits": 7194188,
-    "Ratio": 86
-  },
-  "Be a Dragon": {
-    "CCU": 454,
-    "Visits": 5828644,
+  "Bear Simulator": {
+    "CCU": 284,
+    "Visits": 5208386,
     "Ratio": 89
   },
   "Drive and Crash Into People": {
-    "CCU": 56,
-    "Visits": 2776889,
+    "CCU": 84,
+    "Visits": 2781738,
     "Ratio": 87
   },
-  "Bear Simulator": {
-    "CCU": 240,
-    "Visits": 5196450,
+  "Be a Dragon": {
+    "CCU": 423,
+    "Visits": 5849427,
     "Ratio": 89
+  },
+  "Be a Tank": {
+    "CCU": 375,
+    "Visits": 7213258,
+    "Ratio": 86
+  },
+  "Baby City! RP": {
+    "CCU": 435,
+    "Visits": 92742678,
+    "Ratio": 77
   }
 }
