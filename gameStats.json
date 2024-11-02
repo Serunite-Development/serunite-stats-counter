@@ -1,72 +1,72 @@
 {
   "Be a Tornado": {
-    "CCU": 1316,
-    "Visits": 35944504,
+    "CCU": 1938,
+    "Visits": 36018699,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 1011,
-    "Visits": 53915920,
+    "CCU": 1763,
+    "Visits": 53969039,
     "Ratio": 89
   },
+  "Fire Fighting Simulator": {
+    "CCU": 65,
+    "Visits": 4054224,
+    "Ratio": 88
+  },
   "Ride a Cart Simulator": {
-    "CCU": 955,
-    "Visits": 142715318,
+    "CCU": 1265,
+    "Visits": 142749984,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
-    "CCU": 242,
-    "Visits": 109571639,
+    "CCU": 445,
+    "Visits": 109583522,
     "Ratio": 92
-  },
-  "Be a Shark": {
-    "CCU": 761,
-    "Visits": 54441158,
-    "Ratio": 88
-  },
-  "Baby City! RP": {
-    "CCU": 227,
-    "Visits": 92957215,
-    "Ratio": 77
-  },
-  "EAT A FRIEND": {
-    "CCU": 57,
-    "Visits": 8261414,
-    "Ratio": 89
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 322,
-    "Visits": 82831734,
+    "CCU": 553,
+    "Visits": 82846474,
     "Ratio": 96
   },
-  "Fire Fighting Simulator": {
-    "CCU": 41,
-    "Visits": 4050720,
+  "Baby City! RP": {
+    "CCU": 445,
+    "Visits": 92971615,
+    "Ratio": 77
+  },
+  "Be a Shark": {
+    "CCU": 1265,
+    "Visits": 54486310,
     "Ratio": 88
   },
-  "Bear Simulator": {
-    "CCU": 113,
-    "Visits": 5352540,
-    "Ratio": 89
-  },
   "Destroy It! Simulator": {
-    "CCU": 148,
-    "Visits": 18808989,
+    "CCU": 177,
+    "Visits": 18813887,
     "Ratio": 92
   },
+  "Bear Simulator": {
+    "CCU": 187,
+    "Visits": 5360087,
+    "Ratio": 89
+  },
   "Be a Dragon": {
-    "CCU": 251,
-    "Visits": 6090803,
+    "CCU": 393,
+    "Visits": 6105731,
+    "Ratio": 89
+  },
+  "Drive and Crash Into People": {
+    "CCU": 69,
+    "Visits": 2867118,
+    "Ratio": 87
+  },
+  "EAT A FRIEND": {
+    "CCU": 81,
+    "Visits": 8266315,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 273,
-    "Visits": 7500464,
+    "CCU": 478,
+    "Visits": 7518036,
     "Ratio": 86
-  },
-  "Drive and Crash Into People": {
-    "CCU": 52,
-    "Visits": 2863391,
-    "Ratio": 87
   }
 }
