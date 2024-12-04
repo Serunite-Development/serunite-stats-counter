@@ -1,82 +1,82 @@
 {
   "Be a Tornado": {
-    "CCU": 515,
-    "Visits": 40385716,
+    "CCU": 313,
+    "Visits": 40402566,
     "Ratio": 91
   },
+  "Fire Fighting Simulator": {
+    "CCU": 28,
+    "Visits": 4390767,
+    "Ratio": 88
+  },
   "Be a Snake": {
-    "CCU": 853,
-    "Visits": 61336787,
+    "CCU": 362,
+    "Visits": 61359006,
+    "Ratio": 88
+  },
+  "Be a Shark": {
+    "CCU": 334,
+    "Visits": 58774501,
     "Ratio": 88
   },
   "Be a Spider! Tycoon": {
-    "CCU": 157,
-    "Visits": 110441134,
+    "CCU": 71,
+    "Visits": 110444132,
     "Ratio": 92
   },
   "Ride a Cart Simulator": {
-    "CCU": 562,
-    "Visits": 145644037,
+    "CCU": 452,
+    "Visits": 145656282,
     "Ratio": 95
   },
-  "Fire Fighting Simulator": {
-    "CCU": 42,
-    "Visits": 4388959,
-    "Ratio": 88
-  },
-  "Baby City! RP": {
-    "CCU": 135,
-    "Visits": 93956588,
-    "Ratio": 77
-  },
-  "Be a Shark": {
-    "CCU": 657,
-    "Visits": 58756302,
-    "Ratio": 88
-  },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 263,
-    "Visits": 84188685,
-    "Ratio": 96
-  },
-  "Bear Simulator": {
-    "CCU": 81,
-    "Visits": 6012034,
-    "Ratio": 88
-  },
-  "Drive and Crash Into People": {
-    "CCU": 60,
-    "Visits": 3710510,
-    "Ratio": 83
-  },
-  "Be a Dragon": {
-    "CCU": 130,
-    "Visits": 7383184,
-    "Ratio": 89
-  },
-  "Be a Tank": {
-    "CCU": 207,
-    "Visits": 9003724,
-    "Ratio": 86
-  },
-  "Be a Pirate": {
-    "CCU": 29,
-    "Visits": 1122663,
-    "Ratio": 83
-  },
   "Destroy It! Simulator": {
-    "CCU": 68,
-    "Visits": 19207445,
+    "CCU": 71,
+    "Visits": 19208905,
     "Ratio": 92
   },
   "EAT A FRIEND": {
-    "CCU": 20,
-    "Visits": 8577821,
+    "CCU": 7,
+    "Visits": 8578703,
     "Ratio": 89
   },
+  "Be a Pirate": {
+    "CCU": 15,
+    "Visits": 1123801,
+    "Ratio": 83
+  },
+  "Baby City! RP": {
+    "CCU": 119,
+    "Visits": 93961366,
+    "Ratio": 77
+  },
+  "Be a Dragon": {
+    "CCU": 96,
+    "Visits": 7387843,
+    "Ratio": 89
+  },
+  "Bear Simulator": {
+    "CCU": 39,
+    "Visits": 6014539,
+    "Ratio": 88
+  },
+  "Drive and Crash Into People": {
+    "CCU": 45,
+    "Visits": 3714065,
+    "Ratio": 83
+  },
+  "Be a Tank": {
+    "CCU": 112,
+    "Visits": 9010256,
+    "Ratio": 86
+  },
   "Draw Tower Race": {
-    "CCU": 98,
-    "Visits": 247953,
+    "CCU": 29,
+    "Visits": 251427,
     "Ratio": 78
+  },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 108,
+    "Visits": 84194197,
+    "Ratio": 96
   }
 }
