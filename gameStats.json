@@ -1,82 +1,82 @@
 {
+  "Be a Snake": {
+    "CCU": 396,
+    "Visits": 69087382,
+    "Ratio": 88
+  },
   "Be a Tornado": {
-    "CCU": 370,
-    "Visits": 45915955,
+    "CCU": 278,
+    "Visits": 45930012,
     "Ratio": 91
   },
   "Ride a Cart Simulator": {
-    "CCU": 544,
-    "Visits": 149147331,
+    "CCU": 433,
+    "Visits": 149158214,
     "Ratio": 95
   },
-  "Be a Snake": {
-    "CCU": 929,
-    "Visits": 69063637,
+  "Be a Shark": {
+    "CCU": 334,
+    "Visits": 64963435,
     "Ratio": 88
-  },
-  "Be a Spider! Tycoon": {
-    "CCU": 208,
-    "Visits": 111609403,
-    "Ratio": 92
   },
   "Fire Fighting Simulator": {
-    "CCU": 54,
-    "Visits": 4842565,
-    "Ratio": 88
-  },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 206,
-    "Visits": 85543750,
-    "Ratio": 96
-  },
-  "Be a Shark": {
-    "CCU": 632,
-    "Visits": 64943248,
+    "CCU": 29,
+    "Visits": 4845234,
     "Ratio": 88
   },
   "Baby City! RP": {
-    "CCU": 98,
-    "Visits": 94803994,
+    "CCU": 61,
+    "Visits": 94806517,
     "Ratio": 77
   },
   "EAT A FRIEND": {
-    "CCU": 17,
-    "Visits": 8817035,
+    "CCU": 9,
+    "Visits": 8817864,
     "Ratio": 89
   },
+  "Drive and Crash Into People": {
+    "CCU": 17,
+    "Visits": 4393358,
+    "Ratio": 81
+  },
+  "Be a Tank": {
+    "CCU": 141,
+    "Visits": 11127657,
+    "Ratio": 86
+  },
   "Be a Dragon": {
-    "CCU": 139,
-    "Visits": 9073678,
+    "CCU": 107,
+    "Visits": 9078566,
     "Ratio": 89
   },
   "Bear Simulator": {
-    "CCU": 64,
-    "Visits": 6828266,
+    "CCU": 35,
+    "Visits": 6830735,
     "Ratio": 88
   },
-  "Destroy It! Simulator": {
-    "CCU": 67,
-    "Visits": 19676151,
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 125,
+    "Visits": 85548583,
+    "Ratio": 96
+  },
+  "Be a Spider! Tycoon": {
+    "CCU": 115,
+    "Visits": 111613774,
     "Ratio": 92
   },
-  "Be a Tank": {
-    "CCU": 240,
-    "Visits": 11119375,
-    "Ratio": 86
-  },
   "Draw Tower Race": {
-    "CCU": 1848,
-    "Visits": 18114595,
+    "CCU": 947,
+    "Visits": 18160597,
     "Ratio": 85
   },
   "Be a Pirate": {
-    "CCU": 20,
-    "Visits": 1465124,
+    "CCU": 6,
+    "Visits": 1465851,
     "Ratio": 82
   },
-  "Drive and Crash Into People": {
-    "CCU": 26,
-    "Visits": 4391818,
-    "Ratio": 81
+  "Destroy It! Simulator": {
+    "CCU": 49,
+    "Visits": 19677570,
+    "Ratio": 92
   }
 }
