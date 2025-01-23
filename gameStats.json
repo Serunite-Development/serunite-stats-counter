@@ -1,82 +1,82 @@
 {
   "Be a Tornado": {
-    "CCU": 551,
-    "Visits": 46470614,
+    "CCU": 478,
+    "Visits": 46495970,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 1309,
-    "Visits": 69937664,
+    "CCU": 1125,
+    "Visits": 69986981,
     "Ratio": 88
   },
-  "Ride a Cart Simulator": {
-    "CCU": 631,
-    "Visits": 149522002,
-    "Ratio": 95
-  },
-  "Fire Fighting Simulator": {
-    "CCU": 59,
-    "Visits": 4921825,
+  "Be a Shark": {
+    "CCU": 844,
+    "Visits": 65686490,
     "Ratio": 88
   },
   "Be a Spider! Tycoon": {
-    "CCU": 261,
-    "Visits": 111775222,
+    "CCU": 220,
+    "Visits": 111783136,
     "Ratio": 92
   },
-  "Destroy It! Simulator": {
-    "CCU": 78,
-    "Visits": 19724204,
-    "Ratio": 92
+  "Ride a Cart Simulator": {
+    "CCU": 578,
+    "Visits": 149539937,
+    "Ratio": 95
   },
-  "EAT A FRIEND": {
-    "CCU": 21,
-    "Visits": 8842298,
-    "Ratio": 89
-  },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 272,
-    "Visits": 85734272,
-    "Ratio": 96
-  },
-  "Bear Simulator": {
-    "CCU": 91,
-    "Visits": 6917041,
+  "Fire Fighting Simulator": {
+    "CCU": 51,
+    "Visits": 4925022,
     "Ratio": 88
   },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 315,
+    "Visits": 85744386,
+    "Ratio": 96
+  },
+  "EAT A FRIEND": {
+    "CCU": 12,
+    "Visits": 8843211,
+    "Ratio": 89
+  },
+  "Baby City! RP": {
+    "CCU": 173,
+    "Visits": 94943946,
+    "Ratio": 77
+  },
+  "Destroy It! Simulator": {
+    "CCU": 47,
+    "Visits": 19726081,
+    "Ratio": 92
+  },
   "Be a Dragon": {
-    "CCU": 182,
-    "Visits": 9254592,
+    "CCU": 181,
+    "Visits": 9263497,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 292,
-    "Visits": 11402316,
+    "CCU": 245,
+    "Visits": 11415426,
     "Ratio": 86
   },
   "Draw Tower Race": {
-    "CCU": 1742,
-    "Visits": 19433366,
+    "CCU": 1475,
+    "Visits": 19486977,
     "Ratio": 86
   },
   "Drive and Crash Into People": {
-    "CCU": 20,
-    "Visits": 4433229,
+    "CCU": 26,
+    "Visits": 4435467,
     "Ratio": 81
   },
   "Be a Pirate": {
-    "CCU": 37,
-    "Visits": 1492193,
+    "CCU": 24,
+    "Visits": 1493739,
     "Ratio": 82
   },
-  "Be a Shark": {
-    "CCU": 847,
-    "Visits": 65645658,
+  "Bear Simulator": {
+    "CCU": 96,
+    "Visits": 6922288,
     "Ratio": 88
-  },
-  "Baby City! RP": {
-    "CCU": 240,
-    "Visits": 94936076,
-    "Ratio": 77
   }
 }
