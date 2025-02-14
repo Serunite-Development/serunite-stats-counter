@@ -1,87 +1,87 @@
 {
-  "Be a Tornado": {
-    "CCU": 427,
-    "Visits": 48371669,
-    "Ratio": 91
-  },
-  "Be a Snake": {
-    "CCU": 1089,
-    "Visits": 73826108,
-    "Ratio": 88
-  },
   "Ride a Cart Simulator": {
-    "CCU": 573,
-    "Visits": 151224319,
+    "CCU": 681,
+    "Visits": 151243848,
     "Ratio": 95
   },
+  "Be a Tornado": {
+    "CCU": 428,
+    "Visits": 48395826,
+    "Ratio": 91
+  },
   "Fire Fighting Simulator": {
-    "CCU": 75,
-    "Visits": 5195595,
-    "Ratio": 88
-  },
-  "Be a Spider! Tycoon": {
-    "CCU": 183,
-    "Visits": 112377935,
-    "Ratio": 92
-  },
-  "Be a Shark": {
-    "CCU": 526,
-    "Visits": 68438649,
+    "CCU": 57,
+    "Visits": 5199916,
     "Ratio": 88
   },
   "EAT A FRIEND": {
-    "CCU": 25,
-    "Visits": 8915369,
+    "CCU": 26,
+    "Visits": 8916561,
     "Ratio": 89
   },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 177,
-    "Visits": 86554742,
-    "Ratio": 96
+  "Bear Simulator": {
+    "CCU": 87,
+    "Visits": 7317608,
+    "Ratio": 88
+  },
+  "Be a Spider! Tycoon": {
+    "CCU": 203,
+    "Visits": 112385339,
+    "Ratio": 92
+  },
+  "Be a Shark": {
+    "CCU": 707,
+    "Visits": 68470301,
+    "Ratio": 88
   },
   "Baby City! RP": {
-    "CCU": 114,
-    "Visits": 95407277,
+    "CCU": 137,
+    "Visits": 95413076,
     "Ratio": 77
   },
   "Be a Tank": {
-    "CCU": 315,
-    "Visits": 12569003,
+    "CCU": 301,
+    "Visits": 12585398,
     "Ratio": 86
   },
-  "Destroy It! Simulator": {
-    "CCU": 91,
-    "Visits": 19938619,
-    "Ratio": 92
-  },
-  "Haikyuu Legends": {
-    "CCU": 54043,
-    "Visits": 99209988,
-    "Ratio": 97
-  },
-  "Bear Simulator": {
-    "CCU": 77,
-    "Visits": 7312964,
+  "Be a Snake": {
+    "CCU": 1461,
+    "Visits": 73882489,
     "Ratio": 88
   },
-  "Be a Dragon": {
-    "CCU": 167,
-    "Visits": 9980281,
-    "Ratio": 89
+  "Destroy It! Simulator": {
+    "CCU": 73,
+    "Visits": 19941329,
+    "Ratio": 92
+  },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 314,
+    "Visits": 86564117,
+    "Ratio": 96
   },
   "Draw Tower Race": {
-    "CCU": 1503,
-    "Visits": 23668493,
+    "CCU": 2126,
+    "Visits": 23731224,
     "Ratio": 86
   },
   "Drive and Crash Into People": {
-    "CCU": 52,
-    "Visits": 4623006,
+    "CCU": 65,
+    "Visits": 4627454,
     "Ratio": 81
   },
   "Be a Pirate": {
-    "CCU": 26,
-    "Visits": 1636441,
+    "CCU": 45,
+    "Visits": 1638722,
     "Ratio": 82
+  },
+  "Be a Dragon": {
+    "CCU": 157,
+    "Visits": 9988784,
+    "Ratio": 89
+  },
+  "Haikyuu Legends": {
+    "CCU": 68403,
+    "Visits": 100709510,
+    "Ratio": 97
   }
 }
