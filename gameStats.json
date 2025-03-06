@@ -1,87 +1,87 @@
 {
-  "Be a Tornado": {
-    "CCU": 250,
-    "Visits": 50206075,
-    "Ratio": 91
-  },
   "Be a Snake": {
-    "CCU": 398,
-    "Visits": 77286047,
-    "Ratio": 88
-  },
-  "Be a Shark": {
-    "CCU": 228,
-    "Visits": 70644810,
+    "CCU": 684,
+    "Visits": 77307117,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
-    "CCU": 307,
-    "Visits": 152468906,
+    "CCU": 393,
+    "Visits": 152478054,
     "Ratio": 95
   },
-  "Mow The Lawn! [Simulator]": {
-    "CCU": 131,
-    "Visits": 87172228,
-    "Ratio": 96
-  },
-  "Destroy It! Simulator": {
-    "CCU": 42,
-    "Visits": 20090531,
-    "Ratio": 92
-  },
-  "Baby City! RP": {
-    "CCU": 75,
-    "Visits": 95822602,
-    "Ratio": 77
-  },
-  "Fire Fighting Simulator": {
-    "CCU": 3,
-    "Visits": 5366294,
-    "Ratio": 88
-  },
-  "EAT A FRIEND": {
-    "CCU": 7,
-    "Visits": 8992986,
-    "Ratio": 89
+  "Be a Tornado": {
+    "CCU": 455,
+    "Visits": 50221251,
+    "Ratio": 91
   },
   "Be a Spider! Tycoon": {
-    "CCU": 109,
-    "Visits": 112865632,
+    "CCU": 131,
+    "Visits": 112868588,
     "Ratio": 92
   },
-  "Drive and Crash Into People": {
-    "CCU": 18,
-    "Visits": 4891628,
-    "Ratio": 81
-  },
-  "Be a Tank": {
-    "CCU": 134,
-    "Visits": 13568302,
-    "Ratio": 86
-  },
-  "Be a Dragon": {
-    "CCU": 68,
-    "Visits": 10519960,
-    "Ratio": 89
-  },
-  "Bear Simulator": {
-    "CCU": 27,
-    "Visits": 7605234,
+  "Fire Fighting Simulator": {
+    "CCU": 10,
+    "Visits": 5366579,
     "Ratio": 88
   },
+  "Be a Shark": {
+    "CCU": 414,
+    "Visits": 70658766,
+    "Ratio": 88
+  },
+  "Destroy It! Simulator": {
+    "CCU": 66,
+    "Visits": 20091484,
+    "Ratio": 92
+  },
+  "Bear Simulator": {
+    "CCU": 47,
+    "Visits": 7607140,
+    "Ratio": 88
+  },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 140,
+    "Visits": 87176493,
+    "Ratio": 96
+  },
+  "Baby City! RP": {
+    "CCU": 93,
+    "Visits": 95825845,
+    "Ratio": 77
+  },
+  "Be a Tank": {
+    "CCU": 218,
+    "Visits": 13575924,
+    "Ratio": 86
+  },
+  "EAT A FRIEND": {
+    "CCU": 16,
+    "Visits": 8993783,
+    "Ratio": 89
+  },
+  "Volleyball Legends": {
+    "CCU": 40390,
+    "Visits": 200992618,
+    "Ratio": 97
+  },
+  "Be a Dragon": {
+    "CCU": 94,
+    "Visits": 10523849,
+    "Ratio": 89
+  },
+  "Drive and Crash Into People": {
+    "CCU": 35,
+    "Visits": 4893224,
+    "Ratio": 81
+  },
   "Draw Tower Race": {
-    "CCU": 787,
-    "Visits": 28091786,
+    "CCU": 1184,
+    "Visits": 28121570,
     "Ratio": 86
   },
   "Be a Pirate": {
-    "CCU": 8,
-    "Visits": 1749106,
+    "CCU": 9,
+    "Visits": 1749576,
     "Ratio": 81
-  },
-  "Volleyball Legends": {
-    "CCU": 32148,
-    "Visits": 200273464,
-    "Ratio": 97
   }
 }
