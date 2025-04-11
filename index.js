@@ -25,22 +25,21 @@ for (let gameName in inputGames) {
 	console.log(`Retrieving info for ${gameName} with ID of: ${assetId}`);
 
 	const promise = axios
-		.get(`https://www.roblox.com/places/api-get-details?assetId=${assetId}`)
+		.get(`https://romonitorstats.com/api/v1/stats/game-general/get/?period=14d&placeId=${assetId}`)
 		.then((response) => {
 			const data = response.data;
+			const gameDetails = data.cardValues
 
-			const likes = data['TotalUpVotes'];
-			const dislikes = data['TotalDownVotes'];
+			const interactions = gameDetails.interactions
+			const likeRatio = interactions['rating']
 
-			const likeRatio = Math.round((likes / (likes + dislikes)) * 100);
-
-			totalVisits += data['VisitedCount'];
-			totalFavorites += data['FavoritedCount'];
-			totalCCU += data['OnlineCount']
+			totalVisits += gameDetails['visits'];
+			totalFavorites += interactions['favorites'];
+			totalCCU += gameDetails.players['now']
 
 			gameStats[gameName] = {
-				CCU: data['OnlineCount'],
-				Visits: data['VisitedCount'],
+				CCU: gameDetails.players['now'],
+				Visits: gameDetails['visits'],
 				Ratio: likeRatio,
 			};
 		})
