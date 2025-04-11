@@ -1,1 +1,52 @@
-{}
+{
+  "Be a Tornado": {
+    "CCU": 413,
+    "Visits": 53162822,
+    "Ratio": 91.17
+  },
+  "Fire Fighting Simulator": {
+    "CCU": 6,
+    "Visits": 5421880,
+    "Ratio": 88.17
+  },
+  "Be a Spider! Tycoon": {
+    "CCU": 111,
+    "Visits": 113644866,
+    "Ratio": 92.25
+  },
+  "Be a Shark": {
+    "CCU": 392,
+    "Visits": 73852615,
+    "Ratio": 88.07
+  },
+  "Mow The Lawn! [Simulator]": {
+    "CCU": 112,
+    "Visits": 88185247,
+    "Ratio": 95.62
+  },
+  "EAT A FRIEND": {
+    "CCU": 13,
+    "Visits": 9115478,
+    "Ratio": 88.75
+  },
+  "Bear Simulator": {
+    "CCU": 44,
+    "Visits": 8043180,
+    "Ratio": 87.88
+  },
+  "Be a Dragon": {
+    "CCU": 61,
+    "Visits": 11290862,
+    "Ratio": 88.82
+  },
+  "Drive and Crash Into People": {
+    "CCU": 18,
+    "Visits": 5183576,
+    "Ratio": 80.92
+  },
+  "Destroy It! Simulator": {
+    "CCU": 67,
+    "Visits": 20327919,
+    "Ratio": 92.05
+  }
+}
