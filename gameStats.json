@@ -1,87 +1,87 @@
 {
   "Be a Tornado": {
-    "CCU": 340,
-    "Visits": 55528051,
+    "CCU": 342,
+    "Visits": 55544850,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 1066,
-    "Visits": 88362724,
+    "CCU": 900,
+    "Visits": 88411226,
     "Ratio": 88
   },
   "Fire Fighting Simulator": {
-    "CCU": 12,
-    "Visits": 5474436,
+    "CCU": 13,
+    "Visits": 5474887,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
-    "CCU": 292,
-    "Visits": 155124564,
+    "CCU": 285,
+    "Visits": 155132008,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
-    "CCU": 157,
-    "Visits": 114278941,
+    "CCU": 117,
+    "Visits": 114283240,
     "Ratio": 92
   },
   "Be a Shark": {
-    "CCU": 758,
-    "Visits": 76987307,
+    "CCU": 514,
+    "Visits": 77017832,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 349,
-    "Visits": 89013330,
+    "CCU": 204,
+    "Visits": 89022717,
     "Ratio": 96
   },
   "EAT A FRIEND": {
-    "CCU": 8,
-    "Visits": 9193507,
+    "CCU": 15,
+    "Visits": 9194199,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 58,
-    "Visits": 96673365,
+    "CCU": 81,
+    "Visits": 96675763,
     "Ratio": 77
   },
   "Destroy It! Simulator": {
-    "CCU": 101,
-    "Visits": 20466113,
+    "CCU": 81,
+    "Visits": 20468500,
     "Ratio": 92
   },
   "Bear Simulator": {
-    "CCU": 55,
-    "Visits": 8344864,
+    "CCU": 28,
+    "Visits": 8347171,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
-    "CCU": 24,
-    "Visits": 5346200,
+    "CCU": 21,
+    "Visits": 5347511,
     "Ratio": 81
   },
   "Be a Dragon": {
-    "CCU": 112,
-    "Visits": 11989601,
+    "CCU": 120,
+    "Visits": 11995638,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 230,
-    "Visits": 16704683,
+    "CCU": 214,
+    "Visits": 16714315,
     "Ratio": 86
   },
   "Be a Pirate": {
-    "CCU": 4,
-    "Visits": 1954250,
+    "CCU": 6,
+    "Visits": 1954808,
     "Ratio": 81
   },
   "Draw Tower Race": {
-    "CCU": 2779,
-    "Visits": 44232694,
+    "CCU": 2486,
+    "Visits": 44320797,
     "Ratio": 87
   },
   "Volleyball Legends": {
-    "CCU": 102786,
-    "Visits": 590167422,
+    "CCU": 83199,
+    "Visits": 593098875,
     "Ratio": 96
   }
 }
