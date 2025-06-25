@@ -1,77 +1,77 @@
 {
   "Be a Tornado": {
-    "CCU": 262,
-    "Visits": 57795240,
+    "CCU": 323,
+    "Visits": 57809243,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 893,
-    "Visits": 94332180,
+    "CCU": 1141,
+    "Visits": 94378307,
     "Ratio": 88
   },
   "Fire Fighting Simulator": {
-    "CCU": 2,
-    "Visits": 5536487,
+    "CCU": 5,
+    "Visits": 5536707,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
-    "CCU": 196,
-    "Visits": 155892460,
+    "CCU": 199,
+    "Visits": 155897035,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
-    "CCU": 100,
-    "Visits": 114953577,
+    "CCU": 152,
+    "Visits": 114957501,
     "Ratio": 92
   },
   "Be a Shark": {
-    "CCU": 491,
-    "Visits": 80618953,
+    "CCU": 592,
+    "Visits": 80645405,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 127,
-    "Visits": 90040400,
+    "CCU": 233,
+    "Visits": 90047724,
     "Ratio": 96
   },
   "EAT A FRIEND": {
-    "CCU": 8,
-    "Visits": 9258999,
+    "CCU": 15,
+    "Visits": 9259525,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 50,
-    "Visits": 96949326,
+    "CCU": 98,
+    "Visits": 96951905,
     "Ratio": 77
   },
   "Destroy It! Simulator": {
-    "CCU": 107,
-    "Visits": 20689707,
+    "CCU": 61,
+    "Visits": 20691779,
     "Ratio": 92
   },
   "Bear Simulator": {
-    "CCU": 18,
-    "Visits": 8587771,
+    "CCU": 52,
+    "Visits": 8589404,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
-    "CCU": 22,
-    "Visits": 5590742,
+    "CCU": 24,
+    "Visits": 5592982,
     "Ratio": 81
   },
   "Be a Dragon": {
-    "CCU": 111,
-    "Visits": 12650033,
+    "CCU": 83,
+    "Visits": 12655205,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 258,
-    "Visits": 18523930,
+    "CCU": 243,
+    "Visits": 18536172,
     "Ratio": 86
   },
   "Be a Pirate": {
-    "CCU": 5,
-    "Visits": 2025251,
+    "CCU": 11,
+    "Visits": 2025674,
     "Ratio": 81
   },
   "Draw Tower Race": {
@@ -80,8 +80,8 @@
     "Ratio": 87
   },
   "Volleyball Legends": {
-    "CCU": 49926,
-    "Visits": 856209140,
+    "CCU": 59163,
+    "Visits": 857814648,
     "Ratio": 96
   }
 }
