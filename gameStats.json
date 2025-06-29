@@ -1,77 +1,77 @@
 {
   "Be a Tornado": {
-    "CCU": 586,
-    "Visits": 58046186,
+    "CCU": 576,
+    "Visits": 58076978,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 1695,
-    "Visits": 95020961,
+    "CCU": 1423,
+    "Visits": 95092098,
     "Ratio": 88
   },
   "Fire Fighting Simulator": {
-    "CCU": 4,
-    "Visits": 5539461,
+    "CCU": 3,
+    "Visits": 5539817,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
     "CCU": 177,
-    "Visits": 155953832,
+    "Visits": 155959365,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
-    "CCU": 164,
-    "Visits": 115001130,
+    "CCU": 134,
+    "Visits": 115006486,
     "Ratio": 92
   },
   "Be a Shark": {
-    "CCU": 749,
-    "Visits": 80970839,
+    "CCU": 598,
+    "Visits": 81006955,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 256,
-    "Visits": 90140253,
+    "CCU": 250,
+    "Visits": 90150941,
     "Ratio": 96
   },
   "EAT A FRIEND": {
-    "CCU": 19,
-    "Visits": 9266757,
+    "CCU": 16,
+    "Visits": 9267833,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 112,
-    "Visits": 96978931,
+    "CCU": 76,
+    "Visits": 96982432,
     "Ratio": 77
   },
   "Destroy It! Simulator": {
-    "CCU": 64,
-    "Visits": 20710588,
+    "CCU": 46,
+    "Visits": 20712356,
     "Ratio": 92
   },
   "Bear Simulator": {
-    "CCU": 45,
-    "Visits": 8609274,
+    "CCU": 44,
+    "Visits": 8611691,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
-    "CCU": 88,
-    "Visits": 5631453,
+    "CCU": 49,
+    "Visits": 5636577,
     "Ratio": 81
   },
   "Be a Dragon": {
-    "CCU": 149,
-    "Visits": 12720943,
+    "CCU": 138,
+    "Visits": 12728310,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 278,
-    "Visits": 18683700,
+    "CCU": 303,
+    "Visits": 18698243,
     "Ratio": 86
   },
   "Be a Pirate": {
-    "CCU": 20,
-    "Visits": 2031587,
+    "CCU": 13,
+    "Visits": 2032356,
     "Ratio": 81
   },
   "Draw Tower Race": {
@@ -80,8 +80,8 @@
     "Ratio": 87
   },
   "Volleyball Legends": {
-    "CCU": 91538,
-    "Visits": 879155379,
+    "CCU": 71275,
+    "Visits": 881936083,
     "Ratio": 96
   }
 }
