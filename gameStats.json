@@ -1,77 +1,77 @@
 {
   "Be a Tornado": {
-    "CCU": 123,
-    "Visits": 60711446,
+    "CCU": 274,
+    "Visits": 60720895,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 716,
-    "Visits": 102506817,
+    "CCU": 1071,
+    "Visits": 102543091,
     "Ratio": 88
   },
   "Fire Fighting Simulator": {
-    "CCU": 1,
-    "Visits": 5585235,
+    "CCU": 4,
+    "Visits": 5585445,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
-    "CCU": 142,
-    "Visits": 156640567,
+    "CCU": 151,
+    "Visits": 156644792,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
-    "CCU": 63,
-    "Visits": 115687173,
+    "CCU": 132,
+    "Visits": 115689820,
     "Ratio": 92
   },
   "Be a Shark": {
-    "CCU": 354,
-    "Visits": 85021748,
+    "CCU": 592,
+    "Visits": 85044441,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 117,
-    "Visits": 91271914,
+    "CCU": 156,
+    "Visits": 91276144,
     "Ratio": 96
   },
   "EAT A FRIEND": {
-    "CCU": 2,
-    "Visits": 9348518,
+    "CCU": 14,
+    "Visits": 9349055,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 38,
-    "Visits": 97272588,
+    "CCU": 63,
+    "Visits": 97274590,
     "Ratio": 77
   },
   "Destroy It! Simulator": {
-    "CCU": 32,
-    "Visits": 20877554,
+    "CCU": 59,
+    "Visits": 20878649,
     "Ratio": 92
   },
   "Bear Simulator": {
-    "CCU": 17,
-    "Visits": 8859081,
+    "CCU": 24,
+    "Visits": 8860469,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
-    "CCU": 12,
-    "Visits": 5893841,
+    "CCU": 20,
+    "Visits": 5894733,
     "Ratio": 81
   },
   "Be a Dragon": {
-    "CCU": 48,
-    "Visits": 13386204,
+    "CCU": 95,
+    "Visits": 13389502,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 167,
-    "Visits": 20613322,
+    "CCU": 271,
+    "Visits": 20624465,
     "Ratio": 86
   },
   "Be a Pirate": {
-    "CCU": 5,
-    "Visits": 2107526,
+    "CCU": 7,
+    "Visits": 2107761,
     "Ratio": 80
   },
   "Draw Tower Race": {
@@ -80,8 +80,8 @@
     "Ratio": 87
   },
   "Volleyball Legends": {
-    "CCU": 40629,
-    "Visits": 1126198780,
+    "CCU": 47245,
+    "Visits": 1127272018,
     "Ratio": 96
   }
 }
