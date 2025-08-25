@@ -45,7 +45,7 @@ const main = async() => {
 
 	for (const gameName in inputGames) {
 		const assetId = inputGames[gameName];
-
+		console.log(`Reading ${assetId}, gameName: ${gameName}`)
 		gameStats[gameName] = {
 			CCU: gameInfo[assetId].ccu,
 			Visits: gameInfo[assetId].visits,
