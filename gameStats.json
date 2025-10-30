@@ -1,82 +1,82 @@
 {
   "Be a Tornado": {
-    "CCU": 300,
-    "Visits": 65254724,
+    "CCU": 207,
+    "Visits": 65264394,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 760,
-    "Visits": 116289588,
+    "CCU": 483,
+    "Visits": 116310207,
     "Ratio": 88
   },
   "Fire Fighting Simulator": {
-    "CCU": 0,
-    "Visits": 5646032,
+    "CCU": 1,
+    "Visits": 5646067,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
-    "CCU": 89,
-    "Visits": 157449034,
+    "CCU": 47,
+    "Visits": 157450282,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
-    "CCU": 61,
-    "Visits": 116551012,
+    "CCU": 41,
+    "Visits": 116551949,
     "Ratio": 92
   },
   "Be a Shark": {
-    "CCU": 243,
-    "Visits": 93081565,
+    "CCU": 158,
+    "Visits": 93089718,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 61,
-    "Visits": 92835385,
+    "CCU": 35,
+    "Visits": 92836544,
     "Ratio": 96
   },
   "EAT A FRIEND": {
-    "CCU": 3,
-    "Visits": 9478297,
+    "CCU": 2,
+    "Visits": 9478425,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 12,
-    "Visits": 97734544,
+    "CCU": 14,
+    "Visits": 97735042,
     "Ratio": 76
   },
   "Destroy It! Simulator": {
-    "CCU": 11,
-    "Visits": 21168575,
+    "CCU": 13,
+    "Visits": 21168823,
     "Ratio": 92
   },
   "Bear Simulator": {
-    "CCU": 27,
-    "Visits": 9425134,
+    "CCU": 19,
+    "Visits": 9425817,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
     "CCU": 11,
-    "Visits": 6351295,
+    "Visits": 6351970,
     "Ratio": 81
   },
   "Be a Dragon": {
-    "CCU": 56,
-    "Visits": 14897776,
+    "CCU": 64,
+    "Visits": 14900038,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 270,
-    "Visits": 23848566,
+    "CCU": 224,
+    "Visits": 23858270,
     "Ratio": 87
   },
   "Be a Pirate": {
-    "CCU": 5,
-    "Visits": 2233716,
+    "CCU": 2,
+    "Visits": 2233940,
     "Ratio": 80
   },
   "Volleyball Legends": {
-    "CCU": 85903,
-    "Visits": 1752359214,
+    "CCU": 39890,
+    "Visits": 1753769316,
     "Ratio": 96
   }
 }
