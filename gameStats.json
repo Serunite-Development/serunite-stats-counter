@@ -1,82 +1,82 @@
 {
   "Be a Tornado": {
-    "CCU": 105,
-    "Visits": 70349234,
+    "CCU": 185,
+    "Visits": 70354166,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 522,
-    "Visits": 143527208,
+    "CCU": 666,
+    "Visits": 143547652,
     "Ratio": 87
   },
   "Fire Fighting Simulator": {
     "CCU": 0,
-    "Visits": 5714287,
+    "Visits": 5714298,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
     "CCU": 31,
-    "Visits": 158161906,
+    "Visits": 158162623,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
-    "CCU": 23,
-    "Visits": 117602795,
+    "CCU": 31,
+    "Visits": 117603618,
     "Ratio": 92
   },
   "Be a Shark": {
-    "CCU": 279,
-    "Visits": 105719060,
+    "CCU": 440,
+    "Visits": 105734190,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 42,
-    "Visits": 94156020,
+    "CCU": 64,
+    "Visits": 94157768,
     "Ratio": 96
   },
   "EAT A FRIEND": {
-    "CCU": 4,
-    "Visits": 9589468,
+    "CCU": 1,
+    "Visits": 9589604,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 30,
-    "Visits": 98471679,
+    "CCU": 46,
+    "Visits": 98473698,
     "Ratio": 76
   },
   "Destroy It! Simulator": {
-    "CCU": 2,
-    "Visits": 21404469,
+    "CCU": 4,
+    "Visits": 21404527,
     "Ratio": 92
   },
   "Bear Simulator": {
     "CCU": 21,
-    "Visits": 10698449,
+    "Visits": 10699225,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
-    "CCU": 3,
-    "Visits": 7010857,
+    "CCU": 8,
+    "Visits": 7011160,
     "Ratio": 81
   },
   "Be a Dragon": {
-    "CCU": 43,
-    "Visits": 17328436,
+    "CCU": 54,
+    "Visits": 17330569,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 152,
-    "Visits": 29975827,
+    "CCU": 176,
+    "Visits": 29983100,
     "Ratio": 87
   },
   "Be a Pirate": {
-    "CCU": 4,
-    "Visits": 2361298,
+    "CCU": 2,
+    "Visits": 2361375,
     "Ratio": 81
   },
   "Volleyball Legends": {
-    "CCU": 41405,
-    "Visits": 3255213300,
+    "CCU": 52109,
+    "Visits": 3256243968,
     "Ratio": 96
   }
 }
