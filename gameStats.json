@@ -1,82 +1,82 @@
 {
   "Be a Tornado": {
-    "CCU": 130,
-    "Visits": 70875754,
+    "CCU": 217,
+    "Visits": 70884448,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 756,
-    "Visits": 145302942,
+    "CCU": 809,
+    "Visits": 145335761,
     "Ratio": 87
   },
   "Fire Fighting Simulator": {
     "CCU": 0,
-    "Visits": 5714723,
+    "Visits": 5714729,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
-    "CCU": 13,
-    "Visits": 158199868,
+    "CCU": 14,
+    "Visits": 158200470,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
-    "CCU": 35,
-    "Visits": 117653531,
+    "CCU": 30,
+    "Visits": 117654956,
     "Ratio": 92
   },
   "Be a Shark": {
-    "CCU": 336,
-    "Visits": 106845476,
+    "CCU": 306,
+    "Visits": 106863541,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 71,
-    "Visits": 94273379,
+    "CCU": 49,
+    "Visits": 94276048,
     "Ratio": 96
   },
   "EAT A FRIEND": {
     "CCU": 0,
-    "Visits": 9596225,
+    "Visits": 9596345,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 23,
-    "Visits": 98580141,
+    "CCU": 22,
+    "Visits": 98581482,
     "Ratio": 76
   },
   "Destroy It! Simulator": {
-    "CCU": 0,
-    "Visits": 21407714,
+    "CCU": 1,
+    "Visits": 21407758,
     "Ratio": 92
   },
   "Bear Simulator": {
-    "CCU": 23,
-    "Visits": 10762013,
+    "CCU": 16,
+    "Visits": 10763059,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
     "CCU": 4,
-    "Visits": 7039292,
+    "Visits": 7039892,
     "Ratio": 81
   },
   "Be a Dragon": {
-    "CCU": 28,
-    "Visits": 17481153,
+    "CCU": 69,
+    "Visits": 17484396,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 31,
-    "Visits": 30273121,
+    "CCU": 63,
+    "Visits": 30275990,
     "Ratio": 87
   },
   "Be a Pirate": {
     "CCU": 0,
-    "Visits": 2365297,
+    "Visits": 2365338,
     "Ratio": 81
   },
   "Volleyball Legends": {
-    "CCU": 34868,
-    "Visits": 3323788341,
+    "CCU": 43857,
+    "Visits": 3325023936,
     "Ratio": 95
   }
 }
