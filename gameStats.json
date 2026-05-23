@@ -1,82 +1,82 @@
 {
   "Be a Tornado": {
-    "CCU": 133,
-    "Visits": 71119447,
+    "CCU": 181,
+    "Visits": 71136925,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 506,
-    "Visits": 146054339,
+    "CCU": 798,
+    "Visits": 146112299,
     "Ratio": 87
   },
   "Fire Fighting Simulator": {
     "CCU": 0,
-    "Visits": 5714888,
+    "Visits": 5714896,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
-    "CCU": 23,
-    "Visits": 158214485,
+    "CCU": 22,
+    "Visits": 158215609,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
-    "CCU": 21,
-    "Visits": 117678678,
+    "CCU": 40,
+    "Visits": 117680576,
     "Ratio": 92
   },
   "Be a Shark": {
-    "CCU": 262,
-    "Visits": 107242017,
+    "CCU": 409,
+    "Visits": 107275124,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 37,
-    "Visits": 94317633,
+    "CCU": 36,
+    "Visits": 94320625,
     "Ratio": 96
   },
   "EAT A FRIEND": {
     "CCU": 0,
-    "Visits": 9598174,
+    "Visits": 9598331,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 16,
-    "Visits": 98613281,
+    "CCU": 22,
+    "Visits": 98616022,
     "Ratio": 76
   },
   "Destroy It! Simulator": {
     "CCU": 1,
-    "Visits": 21408554,
+    "Visits": 21408618,
     "Ratio": 92
   },
   "Bear Simulator": {
-    "CCU": 16,
-    "Visits": 10787904,
+    "CCU": 31,
+    "Visits": 10790521,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
-    "CCU": 3,
-    "Visits": 7055438,
+    "CCU": 13,
+    "Visits": 7056312,
     "Ratio": 81
   },
   "Be a Dragon": {
-    "CCU": 33,
-    "Visits": 17543088,
+    "CCU": 41,
+    "Visits": 17548661,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 36,
-    "Visits": 30344989,
+    "CCU": 38,
+    "Visits": 30350249,
     "Ratio": 87
   },
   "Be a Pirate": {
-    "CCU": 1,
-    "Visits": 2366195,
+    "CCU": 0,
+    "Visits": 2366254,
     "Ratio": 81
   },
   "Volleyball Legends": {
-    "CCU": 26525,
-    "Visits": 3352376562,
+    "CCU": 65599,
+    "Visits": 3355627727,
     "Ratio": 95
   }
 }
