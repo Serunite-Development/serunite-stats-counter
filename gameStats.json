@@ -1,82 +1,82 @@
 {
   "Be a Tornado": {
-    "CCU": 183,
-    "Visits": 71193138,
+    "CCU": 185,
+    "Visits": 71203155,
     "Ratio": 91
   },
   "Be a Snake": {
-    "CCU": 764,
-    "Visits": 146291057,
+    "CCU": 553,
+    "Visits": 146317862,
     "Ratio": 87
   },
   "Fire Fighting Simulator": {
     "CCU": 0,
-    "Visits": 5714932,
+    "Visits": 5714935,
     "Ratio": 88
   },
   "Ride a Cart Simulator": {
-    "CCU": 10,
-    "Visits": 158218940,
+    "CCU": 15,
+    "Visits": 158219582,
     "Ratio": 95
   },
   "Be a Spider! Tycoon": {
     "CCU": 20,
-    "Visits": 117686311,
+    "Visits": 117687119,
     "Ratio": 92
   },
   "Be a Shark": {
-    "CCU": 251,
-    "Visits": 107361774,
+    "CCU": 249,
+    "Visits": 107374711,
     "Ratio": 88
   },
   "Mow The Lawn! [Simulator]": {
-    "CCU": 32,
-    "Visits": 94328312,
+    "CCU": 18,
+    "Visits": 94329274,
     "Ratio": 96
   },
   "EAT A FRIEND": {
-    "CCU": 0,
-    "Visits": 9598705,
+    "CCU": 1,
+    "Visits": 9598764,
     "Ratio": 89
   },
   "Baby City! RP": {
-    "CCU": 16,
-    "Visits": 98622815,
+    "CCU": 23,
+    "Visits": 98623824,
     "Ratio": 76
   },
   "Destroy It! Simulator": {
     "CCU": 0,
-    "Visits": 21408866,
+    "Visits": 21408896,
     "Ratio": 92
   },
   "Bear Simulator": {
-    "CCU": 22,
-    "Visits": 10796427,
+    "CCU": 11,
+    "Visits": 10797444,
     "Ratio": 88
   },
   "Drive and Crash Into People": {
-    "CCU": 2,
-    "Visits": 7058463,
+    "CCU": 4,
+    "Visits": 7058853,
     "Ratio": 81
   },
   "Be a Dragon": {
-    "CCU": 33,
-    "Visits": 17562834,
+    "CCU": 37,
+    "Visits": 17564871,
     "Ratio": 89
   },
   "Be a Tank": {
-    "CCU": 39,
-    "Visits": 30363859,
+    "CCU": 33,
+    "Visits": 30366296,
     "Ratio": 87
   },
   "Be a Pirate": {
-    "CCU": 0,
-    "Visits": 2366420,
+    "CCU": 1,
+    "Visits": 2366444,
     "Ratio": 81
   },
   "Volleyball Legends": {
-    "CCU": 43916,
-    "Visits": 3362739311,
+    "CCU": 25849,
+    "Visits": 3363710366,
     "Ratio": 95
   }
 }
